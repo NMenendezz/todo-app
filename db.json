@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Learn React ⚛️",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "text": "Make a new project 📚",
+      "completed": false
+    }
+  ]
+}
