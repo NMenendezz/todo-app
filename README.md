@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How to
-Firts run `npm start` and `npm run server` on another console tab.
+Firts run`npm run server` and then `npm start` in another console tab.
 
 ## Available Scripts
 
